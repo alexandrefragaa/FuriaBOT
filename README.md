@@ -1,5 +1,9 @@
 # 🐾 FURIA BOT — Telegram Bot da Tropa 🔥
 
+--- 
+
+# USERNAME DO BOT : https://web.telegram.org/k/#@FuriaCS2Fan_bot
+
 Um bot temático da FURIA Esports criado com Python e Telegram Bot API para fãs da organização. Acompanha notícias, lineups, highlights e muito mais direto do seu Telegram!
 
 ---
